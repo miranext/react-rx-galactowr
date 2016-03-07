@@ -1,0 +1,89 @@
+
+.cloud {
+    background-image: url('cloud.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 20%;
+    height: 20%;
+    z-index: 100;
+}
+
+.star-small {
+    background: #F2F2F2;
+    height: 1px;
+    width: 1px;
+}
+.star-med {
+    background: #F2F2F2;
+    height: 2px;
+    width: 2px;
+}
+.star-small2 {
+    background: #F2F2F2;
+    height: 2px;
+    width: 1px;
+}
+.star-small3 {
+    background: #F2F2F2;
+    height: 1px;
+    width: 2px;
+}
+
+.ship {
+    background: url('galaga.png') no-repeat -32px -62px;
+	width: 15px;
+	height: 16px;
+}
+
+.missile {
+    background: url('galaga.png') no-repeat -202px -202px;
+	width: 3px;
+	height: 8px;
+}
+
+.e11 {
+    background: url('galaga.png') no-repeat -8px -111px;
+    width: 15px;
+    height: 15px;
+}
+
+.e12 {
+    background: url('galaga.png') no-repeat -32px -110px;
+	width: 15px;
+	height: 16px;
+}
+
+.e21 {
+    background: url('galaga.png') no-repeat -11px -161px;
+    width: 9px;
+    height: 10px;
+}
+
+.e22 {
+    background: url('galaga.png') no-repeat -33px -161px;
+    width: 13px;
+    height: 10px;
+}
+
+.e31 {
+    background: url('galaga.png') no-repeat -11px -185px;
+	width: 9px;
+	height: 10px;
+}
+
+.e32 {
+    background: url('galaga.png') no-repeat -33px -185px;
+    width: 13px;
+    height: 10px;
+}
+
+.ex1 {
+    background: url('galaga.png') no-repeat -202px -231px;
+	width: 12px;
+	height: 13px;
+}
+.ex2 {
+    background: url('galaga.png') no-repeat -224px -230px;
+	width: 16px;
+	height: 16px;
+}
